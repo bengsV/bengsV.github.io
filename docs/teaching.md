@@ -1,4 +1,3 @@
-# Teaching Activities
 
 ## Lectures
 
@@ -20,7 +19,7 @@
 
 ### Paderborn University
 
-* (duelpy)[https://gitlab.com/duelpy/duelpy], Summer 2020 and Winter 2020/21
+* [duelpy](https://gitlab.com/duelpy/duelpy), Summer 2020 and Winter 2020/21
 
 
 ### LMU Munich
@@ -31,9 +30,9 @@
 
 ## (Co-)Supervised PhD Candidates
 
-* Dr. Jasmin Brandt (2020 – 2025)
-* Dr. Björn Haddenhorst (2019 – 2022)
-* Patrick Irenäus Kolpaczki (2021 – )
+* **Dr. Jasmin Brandt** (2020 – 2025), [Multi-armed bandits for trustworthy and resource-efficient algorithm configuration](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/7928730)
+* **Dr. Björn Haddenhorst** (2019 – 2022), [Testing coherence and identifying winners in dueling bandits: theory and algorithm](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/7201730)
+* **Patrick Irenäus Kolpaczki** (2021 – )
 
 ---
 

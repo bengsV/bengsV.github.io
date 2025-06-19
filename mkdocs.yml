@@ -1,7 +1,7 @@
 
 site_name: Viktor Bengs – Personal Homepage
 theme:
-  name: material
+  name: simple-blog
 nav:
   - Home: index.md
   - Circulum Vitae: cv.md
