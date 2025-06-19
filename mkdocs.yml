@@ -1,0 +1,12 @@
+
+site_name: Viktor Bengs – Personal Homepage
+site_url: https://bengsv.github.io/
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Circulum Vitae: cv.md
+  - Publications: publications.md
+  - Talks: talks.md
+  - Data Science: dsskills.md
+  - Teaching: teaching.md
