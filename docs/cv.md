@@ -7,8 +7,8 @@
 
 ## Professional Experience
 
-- **Since June 2025**: Research Scientist, German Research Center for Artificial Intelligence (DFKI), Kaiserslautern
-- **Since April 2024**: Data Scientist, Research Group Artificial Intelligence, Kassel
+- **Since June 2025**: Research Scientist, German Research Center for Artificial Intelligence (DFKI), Data Science and its Application, Kaiserslautern
+- **Since April 2024**: Data Scientist, TECLION (formerly known as the Research Group Artificial Intelligence), Kassel
 - **2022–2024**: Postdoc & W2 Interim Professor, LMU Munich
 - **2018–2021**: Postdoctoral Researcher, Heinz Nixdorf Institute and
 Department of Computer Science, Paderborn University

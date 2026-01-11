@@ -4,14 +4,20 @@
 ### Paderborn University
 
 * **Data Mining**, Summer 2019 and 2020
+    * Teaching material (in German) is available [here](https://github.com/bengsV/DataMining) 
 * **Online and Adaptive Machine Learning**, Winter 2019/20 and 2020/21
+    * Teaching material is available [here](https://github.com/bengsV/Online-Machine-Learning-and-Bandits)
 
 ### LMU Munich
 
 * **Supervised Learning**, Summer 2022
+    * Parts of the teaching material is available [here](https://slds-lmu.github.io/i2ml/)
 * **Advanced Machine Learning**, Summer 2022
+    * Parts of the teaching material is available [here](https://slds-lmu.github.io/i2ml/)
 * **Online Machine Learning and Bandits**, Winter 2022/23 and 2023/24
-* **Optimization for Machine Learning**, Summer 2023
+    * Teaching material is available [here](https://github.com/bengsV/Online-Machine-Learning-and-Bandits)
+* **Optimization for Machine Learning**, Summer 2023    
+    * Teaching material is available [here](https://github.com/bengsV/OptML)
 
 ---
 
@@ -32,7 +38,9 @@
 
 * **Dr. Jasmin Brandt** (2020 – 2025), [Multi-armed bandits for trustworthy and resource-efficient algorithm configuration](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/7928730)
 * **Dr. Björn Haddenhorst** (2019 – 2022), [Testing coherence and identifying winners in dueling bandits: theory and algorithm](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/7201730)
-* **Patrick Irenäus Kolpaczki** (2021 – )
+* **Dr. Patrick Irenäus Kolpaczki** (2021 – 2025), [Approximating the Shapley Value and Shapley Interactions](https://edoc.ub.uni-muenchen.de/35990/1/Kolpaczki_Patrick_Irenaeus.pdf)
+* **Niklas Nertinger** (2025 – )
+* **Santo Maria Amado Rocco Thies** (2025 – )
 
 ---
 

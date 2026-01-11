@@ -3,12 +3,17 @@
 
   <div style="float: left; width: 70%;">
     <p>
-      Hi, I'm Viktor Bengs. I'm a data scientist at the
+      Hi, I'm Viktor Bengs. I'm a data scientist at 
+      <a href="https://it.hessen.de/ueber-uns/finanzamt-kassel-teclion" target="_blank">
+       TECLION
+      </a> 
+      formerly known as the 
       <a href="https://digitales.hessen.de/kuenstliche-intelligenz/ki-handlungsfelder/ki-in-der-smarten-verwaltung-entwickeln/forschungsstelle-kuenstliche-intelligenz" target="_blank">
         Research Group Artificial Intelligence (FSKI)
-      </a> of state Hesse, Germany and a research scientist at the
+      </a> 
+      of state Hesse, Germany and a research scientist at the
       <a href="https://www.dfki.de/en/web" target="_blank">
-        German Research Center for Artificial Intelligence (DFKI)
+        German Research Center for Artificial Intelligence (DFKI) </a> working with the research department  <a href="https://www.dfki.de/en/web/research/research-departments/data-science-and-its-applications" target="_blank"> Data Science and its Applications 
       </a>.
     </p>
 
@@ -40,10 +45,13 @@
 </div>
 
 
-
-
 ## Contact
 
+📧 [viktor.bengs@dfki.de](mailto:viktor.bengs@dfki.de) 
 📧 [viktor.bengs@ifi.lmu.de](mailto:viktor.bengs@ifi.lmu.de)  
-🐦 [Twitter: @BengsViktor](https://twitter.com/BengsViktor)  
+
+## Links
+
 🔗 [Google Scholar](https://scholar.google.com/citations?user=J1eEtpwAAAAJ&hl=de)
+🤖 [github](https://github.com/bengsV)
+▶ [YouTube](https://www.youtube.com/@ViktorBengs/videos)
